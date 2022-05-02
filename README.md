@@ -1,4 +1,4 @@
 # 02.Project-Python
- Difference between format and fstring.
+ Format VS fstring in Python.
 
- - Here is shown the difference (small but it is) of format and fstring.
+ - Same output with different methods, using format and fstring, in Python!🐍
